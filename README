@@ -1,0 +1,19 @@
+Hello user!
+This program was tested by the only one developer.
+
+I used Postman.
+And used URL http://localhost:8080/api/calculate
+
+input content type RAW
+
+{
+  "shapeType": "Triangle",
+  "parameters": [3, 4, 5]
+}
+
+and I was result :
+
+{
+    "area": 6.0,
+    "perimeter": 12.0
+}
