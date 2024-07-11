@@ -11,7 +11,7 @@ input content type RAW
   "parameters": [3, 4, 5]
 }
 
-and I was result :
+and result :
 
 {
     "area": 6.0,
